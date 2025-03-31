@@ -1,0 +1,21 @@
+{
+    "Truck": 0,
+    "Car": 1,
+    "Bus": 2,
+    "Fire engine": 3,
+    "Police car": 4,
+    "Civil defense siren": 5,
+    "Motorcycle": 6,
+    "Car passing by": 7,
+    "Train": 8,
+    "Ambulance": 9,
+    "Screaming": 10,
+    "Bicycle": 11,
+    "fire truck": 12,
+    "Skateboard": 13,
+    "Train horn": 14,
+    "Reversing beeps": 15,
+    "truck horn": 16,
+    "Air horn": 17,
+    "Car alarm": 18
+}

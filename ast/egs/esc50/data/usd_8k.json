@@ -1,0 +1,12 @@
+{
+    "drilling": 0,
+    "dog_bark": 1,
+    "engine_idling": 2,
+    "siren": 3,
+    "street_music": 4,
+    "jackhammer": 5,
+    "air_conditioner": 6,
+    "children_playing": 7,
+    "gun_shot": 8,
+    "car_horn": 9
+}

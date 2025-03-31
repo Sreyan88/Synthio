@@ -1,0 +1,10 @@
+{
+    "piano": 0,
+    "tenor saxophone": 1,
+    "violin": 2,
+    "female singer": 3,
+    "clarinet": 4,
+    "flute": 5,
+    "distorted electric guitar": 6,
+    "trumpet": 7
+}

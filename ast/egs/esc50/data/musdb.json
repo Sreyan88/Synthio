@@ -1,0 +1,7 @@
+{
+    "drums": 0,
+    "bass": 1,
+    "mixture": 2,
+    "vocals": 3,
+    "other": 4
+}

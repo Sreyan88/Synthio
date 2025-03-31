@@ -1,0 +1,13 @@
+{
+    "mallet": 0,
+    "organ": 1,
+    "keyboard": 2,
+    "string": 3,
+    "guitar": 4,
+    "vocal": 5,
+    "flute": 6,
+    "bass": 7,
+    "reed": 8,
+    "brass": 9,
+    "synth_lead": 10
+}

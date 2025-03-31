@@ -1,0 +1,8 @@
+{
+    "sigh": 0,
+    "laughter": 1,
+    "sneeze": 2,
+    "sniff": 3,
+    "throat clearing": 4,
+    "cough": 5
+}

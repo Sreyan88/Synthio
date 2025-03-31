@@ -1,0 +1,12 @@
+{
+    "shopping_mall": 0,
+    "airport": 1,
+    "public_square": 2,
+    "street_traffic": 3,
+    "metro": 4,
+    "bus": 5,
+    "street_pedestrian": 6,
+    "park": 7,
+    "tram": 8,
+    "metro_station": 9
+}

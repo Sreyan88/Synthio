@@ -1,0 +1,12 @@
+{
+    "rock": 0,
+    "reggae": 1,
+    "disco": 2,
+    "pop": 3,
+    "classical": 4,
+    "hiphop": 5,
+    "jazz": 6,
+    "metal": 7,
+    "blues": 8,
+    "country": 9
+}
