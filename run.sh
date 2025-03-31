@@ -123,6 +123,7 @@ if [ "$augment" = True ]; then
         eval "$(conda shell.bash hook)"
         conda activate gama
         cd ./GAMA/
+        cp gama_csv_inf.py GAMA/
         for i in $(seq 0 $(($gpu_count-1))); do
             CUDA_VISIBLE_DEVICES=${gpus[$i]} python gama_csv_inf.py --input_csv ${files[$i]} --output_csv ${files[$i]} &
         done
